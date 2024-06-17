@@ -1,8 +1,8 @@
 <h5 align="center">Hi 💻, I'm iFergTech</h5>
-<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-banner [8BF8708].png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-banner265E61C-ezgif.com-video-to-gif-converter.gif"> </div>
 <h5 align="center">Aspiring Full-Stack developer from Philippines</h5>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=75A47F&style=flat" alt="ifergtech" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 
 <hr>
 
@@ -24,6 +24,8 @@
 <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="bash" width="20" height="20"/> </a>
 
 </p>
+
+<hr>
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
@@ -57,14 +59,16 @@
 <img src="https://www.alightmotionapk.com/wp-content/uploads/2021/09/cropped-cropped-alight-motion-1.png" alt="alightmotion" width="20" height="20"/> </a> 
 </p>
 
+<hr>
+
 <h5>Quick stats about me</h5>
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ifergtech&show_icons=true&title_color=75A47F&icon_color=75A47F&text_color=B5C0D0&bg_color=202528&count_private=true" alt="iFerg's github stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ifergtech&show_icons=true&title_color=AC90FE&icon_color=AC90FE&text_color=B5C0D0&bg_color=202528&count_private=true" alt="iFerg's github stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifergtech&show_icons=true&title_color=75A47F&icon_color=75A47F&text_color=B5C0D0&bg_color=202528&count_private=true&layout=compact" alt="iFerg's top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifergtech&show_icons=true&title_color=AC90FE&icon_color=AC90FE&text_color=B5C0D0&bg_color=202528&count_private=true&layout=compact" alt="iFerg's top languages" />
     </td>
   </tr>
 </table>
