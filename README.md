@@ -1,6 +1,6 @@
 <h5 align="center">Hi 💻, I'm iFergTech</h5>
 <div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-banner265E61C-ezgif.com-video-to-gif-converter.gif"> </div>
-<h5 align="center">Aspiring Full-Stack developer from Philippines</h5>
+<h5 align="center">Aspiring Full-Stack Developer from Philippines</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 
@@ -9,7 +9,7 @@
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://instagram.com/ifergtech" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/122/PNG/512/instagram_socialnetwork_20033.png" alt="bash" width="23" height="23"/> </a>
+<img src="https://cdn.icon-icons.com/icons2/122/PNG/512/instagram_socialnetwork_20033.png" alt="bash" width="24" height="24"/> </a>
 
 <a href="https://steamcommunity.com/id/ferguzus" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/3880/PNG/256/steam_icon_245550.png" alt="bash" width="22" height="22"/> </a>
@@ -32,7 +32,9 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="40" height="15"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_macos_bigsur_icon_190140.png" alt="git" width="20" height="20"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/2790/PNG/96/html_filetype_icon_177535.png" alt="html5" width="20" height="20"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -51,6 +53,12 @@
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="20" height="20"/> </a> 
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5611/5611075.png" alt="photoshop" width="20" height="20"/> </a> 
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="20" height="20"/> </a> 
+
+<a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> 
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visualstudio" width="20" height="20"/> </a> 
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a>
