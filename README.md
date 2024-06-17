@@ -1,26 +1,70 @@
-<h1 align="center">Hi 👋, I'm iFergTech</h1>
-<h3 align="center">Aspiring full-stack developer from Philippines</h3>
+<h5 align="center">Hi 💻, I'm iFergTech</h5>
+<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-banner [8BF8708].png"> </div>
+<h5 align="center">Aspiring Full-Stack developer from Philippines</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=0e75b6&style=flat" alt="ifergtech" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=75A47F&style=flat" alt="ifergtech" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+<hr>
 
-- 🌱 I’m currently learning **Laravel, tailwind**
-
-- 💬 Ask me about **php, mysql, git**
-
-- 📫 How to reach me **r99993140@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://instagram.com/ifergtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ifergtech" height="30" width="40" /></a>
+<a href="https://instagram.com/ifergtech" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/122/PNG/512/instagram_socialnetwork_20033.png" alt="bash" width="23" height="23"/> </a>
+
+<a href="https://steamcommunity.com/id/ferguzus" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/3880/PNG/256/steam_icon_245550.png" alt="bash" width="22" height="22"/> </a>
+
+<a href="https://discord.com/invite/vmNWrHeT" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/3880/PNG/256/discord_icon_245522.png" alt="bash" width="22" height="22"/> </a>
+
+<a href="https://www.tiktok.com/@ifergtech" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2246/PNG/512/tiktok_tik_tok_logo_icon_134936.png" alt="bash" width="24" height="24"/> </a>
+
+<a href="mailto:r99993140@gmail.com" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="bash" width="20" height="20"/> </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<h5 align="left">Languages and Tools:</h5>
+<p align="left"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="40" height="15"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2790/PNG/96/html_filetype_icon_177535.png" alt="html5" width="20" height="20"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2790/PNG/96/css_filetype_icon_177544.png" alt="css3" width="20" height="20"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/128/136/136530.png" alt="javascript" width="20" height="20"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/128/2306/2306154.png" alt="php" width="20" height="20"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" alt="bootstrap" width="20" height="20"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifergtech&show_icons=true&locale=en&layout=compact" alt="ifergtech" /></p>
+<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/128/5105/5105712.png" alt="dotnet" width="20" height="20"/> </a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifergtech&show_icons=true&locale=en" alt="ifergtech" /></p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="20" height="20"/> </a> 
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/128/5611/5611075.png" alt="photoshop" width="20" height="20"/> </a> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifergtech&" alt="ifergtech" /></p>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a>
+
+<a href="https://www.alightmotionapk.com/alight-motion-for-pc/" target="_blank" rel="noreferrer"> 
+<img src="https://www.alightmotionapk.com/wp-content/uploads/2021/09/cropped-cropped-alight-motion-1.png" alt="alightmotion" width="20" height="20"/> </a> 
+</p>
+
+<h5>Quick stats about me</h5>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ifergtech&show_icons=true&title_color=75A47F&icon_color=75A47F&text_color=B5C0D0&bg_color=202528&count_private=true" alt="iFerg's github stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifergtech&show_icons=true&title_color=75A47F&icon_color=75A47F&text_color=B5C0D0&bg_color=202528&count_private=true&layout=compact" alt="iFerg's top languages" />
+    </td>
+  </tr>
+</table>
