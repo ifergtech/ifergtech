@@ -1,4 +1,4 @@
-<h5 align="center">Hi <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/wave-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif" />, I'm iFergTech</h5>
+<h6 align="center">Hi <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/wave-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif" />, I'm iFergTech</h6>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-banner0169549-ezgif.com-video-to-gif-converter.gif"> </div>
 <h6 align="center"><img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rocket-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif"/>Aspiring Full-Stack Developer</h6>
@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="140" height="140" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/waku-waku.webp">
 
 <hr>
-<h5 align="left"><img src="https://cdn-icons-png.flaticon.com/128/1325/1325130.png" alt="visualstudio" width="15" height="15"> Connect with me:</h5>
+<h6 align="left"><img src="https://cdn-icons-png.flaticon.com/128/1325/1325130.png" alt="visualstudio" width="15" height="15"> Connect with me:</h6>
 <p align="left">
 <a href="https://instagram.com/ifergtech" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/122/PNG/512/instagram_socialnetwork_20033.png" alt="bash" width="24" height="24"/> </a>
@@ -29,7 +29,7 @@
 
 <hr>
 
-<h5 align="left"><img src="https://cdn-icons-png.flaticon.com/128/2888/2888407.png" alt="visualstudio" width="15" height="15"> Languages and Tools:</h5>
+<h6 align="left"><img src="https://cdn-icons-png.flaticon.com/128/2888/2888407.png" alt="visualstudio" width="15" height="15"> Languages and Tools:</h6>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="40" height="15"/> </a>
@@ -78,7 +78,7 @@
 
 <hr>
 
-<h5><img src="https://cdn-icons-png.flaticon.com/128/2272/2272166.png" alt="visualstudio" width="15" height="15"> Quick stats about me</h5>
+<h6><img src="https://cdn-icons-png.flaticon.com/128/2272/2272166.png" alt="visualstudio" width="15" height="15"> Quick stats about me</h6>
 <table>
   <tr>
     <td>
@@ -91,7 +91,7 @@
 </table>
 
 <hr>
-<h5><img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="visualstudio" width="15" height="15"> Local Machine & Peripherals</h5>
+<h6><img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="visualstudio" width="15" height="15"> Local Machine & Peripherals</h6>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rig.png.png"> </div>
 
