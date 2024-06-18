@@ -102,7 +102,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [IGPU]
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> AMD Stock Cooler
+<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="15" height="15"/> AMD Wraith Stealth Cooler
 
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2
 
@@ -114,9 +114,9 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5
 
-<img src="https://cdn-icons-png.flaticon.com/128/689/689291.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans
+<img src="https://cdn-icons-png.flaticon.com/128/4617/4617755.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 80+ Bronze
+<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 80+ Bronze
 
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Rakk Mirad
 
