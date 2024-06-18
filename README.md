@@ -92,12 +92,17 @@
 </table>
 
 <hr>
+<h5>
+<img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Operating System
+</h5>
+
+```
+  Windows 11 Pro
+```
 
 ## Rig
-<h5>
+<h6>
   
-<img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Windows 11 Pro
-
 <img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G
 
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [IGPU]
@@ -119,10 +124,10 @@
 <img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 80+ Bronze
 
 <img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad
-</h5>
+</h6>
 
 ## Peripherals
-<h5>
+<h6>
   
 <img src="https://icon-icons.com/icons2/2970/PNG/96/monitor_screen_computer_desktop_icon_186853.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz
 
@@ -135,6 +140,6 @@
 <img src="https://cdn-icons-png.flaticon.com/128/8499/8499591.png" alt="vscode" width="15" height="15"/> Onikuma K16 Ice Gaming Headset
 
 <img src="https://cdn-icons-png.flaticon.com/128/889/889640.png" alt="vscode" width="15" height="15"/> Ergonomic Chair
-</h5>
+</h6>
 
 <hr>
