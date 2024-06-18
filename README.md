@@ -92,54 +92,7 @@
 </table>
 
 <hr>
-<h5>
-<img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Operating System
-</h5>
 
-```
-  Windows 11 Pro
-```
-
-## Rig
-<h6>
-  
-<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G
-
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [IGPU]
-
-<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="15" height="15"/> AMD Wraith Stealth Cooler
-
-<img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2
-
-<img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz
-
-<img src="https://cdn-icons-png.flaticon.com/128/6329/6329567.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [OS]
-
-<img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5
-
-<img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5
-
-<img src="https://cdn-icons-png.flaticon.com/128/4617/4617755.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans
-
-<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 80+ Bronze
-
-<img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad
-</h6>
-
-## Peripherals
-<h6>
-  
-<img src="https://cdn-icons-png.flaticon.com/128/8323/8323511.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz
-
-<img src="https://cdn-icons-png.flaticon.com/128/8323/8323511.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz
-
-<img src="https://icon-icons.com/icons2/2621/PNG/96/device_keyboard_icon_157287.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
-
-<img src="https://icon-icons.com/icons2/1632/PNG/96/62831computermouse_109204.png" alt="vscode" width="15" height="15"/> AULA F805 Gaming Mouse
-
-<img src="https://cdn-icons-png.flaticon.com/128/8499/8499591.png" alt="vscode" width="15" height="15"/> Onikuma K16 Ice Gaming Headset
-
-<img src="https://cdn-icons-png.flaticon.com/128/889/889640.png" alt="vscode" width="15" height="15"/> Ergonomic Chair
-</h6>
+<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rig.png"> </div>
 
 <hr>
