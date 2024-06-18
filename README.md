@@ -108,8 +108,8 @@
  - FSP HV PRO 550W 80+ Bronze
  - Rakk Mirad
 
- - Gamdias Atlas VH22F 75hz Frameless 22inch
- - ViewPlus MX-22 Premium Series 75hz Frameless 22inch
+ - Gamdias Atlas VH22F 75hz
+ - ViewPlus MX-22 Premium Series 75hz
  - Rakk Diwa V2 Mechanical Keyboard
- - AULA F805 Wired Gaming Mouse
- - Onikuma K16 Ice Wired Gaming Headset
+ - AULA F805 Gaming Mouse
+ - Onikuma K16 Ice Gaming Headset
