@@ -49,12 +49,14 @@
 <img src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" alt="bootstrap" width="20" height="20"/> </a> 
 
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/128/5105/5105712.png" alt="dotnet" width="20" height="20"/> </a> 
+<img src="https://www.mmdtech.com/wp-content/uploads/visual-basic-in-urdu1.png" alt="dotnet" width="25" height="20"/> </a> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="20" height="20"/> </a> 
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5611/5611075.png" alt="photoshop" width="20" height="20"/> </a> 
+<a href="https://adobe-illustrator-draw.fileplanet.com/apk" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968465.png" alt="photoshop" width="20" height="20"/> </a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="20" height="20"/> </a> 
