@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 
-<img align="right" alt="Coding" width="200" height="200" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/giphy.webp">
+<img align="right" alt="Coding" width="200" height="200" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/IMG_20240618_100935_660.jpg">
 
 <hr>
 
