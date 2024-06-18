@@ -129,9 +129,9 @@
 ## Peripherals
 <h6>
   
-<img src="https://icon-icons.com/icons2/2970/PNG/96/monitor_screen_computer_desktop_icon_186853.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz
+<img src="https://cdn-icons-png.flaticon.com/128/8323/8323511.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz
 
-<img src="https://icon-icons.com/icons2/2970/PNG/96/monitor_screen_computer_desktop_icon_186853.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz
+<img src="https://cdn-icons-png.flaticon.com/128/8323/8323511.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz
 
 <img src="https://icon-icons.com/icons2/2621/PNG/96/device_keyboard_icon_157287.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
 
