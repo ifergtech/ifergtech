@@ -1,7 +1,7 @@
 <h5 align="center">Hi <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/wave-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif" />, I'm iFergTech</h5>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-banner0169549-ezgif.com-video-to-gif-converter.gif"> </div>
-<h5 align="center"><img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rocket-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif" /> Aspiring Full-Stack Dev from <img src="https://cdn-icons-png.flaticon.com/128/14009/14009831.png" width="20" height="20" alt="laptop gif" /></h5>
+<h5 align="center"><img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rocket-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif" /> Aspiring Full-Stack Developer</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 
