@@ -90,3 +90,26 @@
     </td>
   </tr>
 </table>
+
+<hr>
+<h5>My Rig</h5>
+
+  ```bash
+
+ - AMD Ryzen 5 Pro 4650G
+ - Radeon Vega 3 [Integrated Graphics]
+ - AMD Stock Cooler
+ - Gigabyte B450M DS3H V2
+ - TForce Delta 2X8 16GB 3200Mhz
+ - 500GB Kingston NV2 NVMe SSD [OS]
+ - 512GB Teamgroup GX2 Sata 2.5
+ - 128GB Silicon Power A58 SaTA 2.5
+ - GStorm 5X Chassis Fans
+ - FSP HV PRO 550W 80+ Bronze
+ - Rakk Mirad
+
+ - Gamdias Atlas VH22F 75hz Frameless 22inch
+ - ViewPlus MX-22 Premium Series 75hz Frameless 22inch
+ - Rakk Diwa V2 Mechanical Keyboard
+ - AULA F805 Wired Gaming Mouse
+ - Onikuma K16 Ice Wired Gaming Headset
