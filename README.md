@@ -48,6 +48,9 @@
 <img src="https://cdn-icons-png.flaticon.com/128/2306/2306154.png" alt="php" width="20" height="20"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" alt="bootstrap" width="20" height="20"/> </a> 
+  
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="bootstrap" width="20" height="20"/> </a> 
 
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
 <img src="https://www.mmdtech.com/wp-content/uploads/visual-basic-in-urdu1.png" alt="dotnet" width="25" height="18"/> </a> 
