@@ -97,9 +97,10 @@
 <h5>
   
 <img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Windows 11 Pro
-<br>
-<img src="https://cdn-icons-png.flaticon.com/128/984/984391.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G
-- Radeon Vega 3 [IGPU]
+
+<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [IGPU]
 - AMD Stock Cooler
 - Gigabyte B450M DS3H V2
 - TForce Delta 2X8 16GB 3200Mhz
