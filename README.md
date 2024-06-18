@@ -1,6 +1,6 @@
 <h5 align="center">Hi <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rocket-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif" />, I'm iFergTech</h5>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-banner265E61C-ezgif.com-video-to-gif-converter.gif"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-banner0169549-ezgif.com-video-to-gif-converter.gif"> </div>
 <h5 align="center">Aspiring Full-Stack Developer from Philippines</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
