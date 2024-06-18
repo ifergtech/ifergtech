@@ -52,8 +52,9 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
 <img src="https://www.mmdtech.com/wp-content/uploads/visual-basic-in-urdu1.png" alt="dotnet" width="25" height="18"/> </a> 
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="20" height="20"/> </a> 
+<a href="https://www.alightmotionapk.com/alight-motion-for-pc/" target="_blank" rel="noreferrer"> 
+<img src="https://www.alightmotionapk.com/wp-content/uploads/2021/09/cropped-cropped-alight-motion-1.png" alt="alightmotion" width="20" height="20"/> </a> 
+
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5611/5611075.png" alt="photoshop" width="20" height="20"/> </a> 
 <a href="https://adobe-illustrator-draw.fileplanet.com/apk" target="_blank" rel="noreferrer"> 
@@ -68,8 +69,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a>
 
-<a href="https://www.alightmotionapk.com/alight-motion-for-pc/" target="_blank" rel="noreferrer"> 
-<img src="https://www.alightmotionapk.com/wp-content/uploads/2021/09/cropped-cropped-alight-motion-1.png" alt="alightmotion" width="20" height="20"/> </a> 
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="22" height="22"/> </a> 
 </p>
 
 <hr>
