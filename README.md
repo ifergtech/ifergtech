@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 
-<img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/neural.png">
+<img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/coding-ezgif.com-effects.gif">
 
 <hr>
 
