@@ -92,8 +92,8 @@
 </table>
 
 <hr>
-<h5>My Rig</h5>
 
+## My Rig
 <h5>
   
 <img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Windows 11 Pro
@@ -118,11 +118,21 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 80+ Bronze
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Rakk Mirad
+<img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad
+</h5>
 
-- Gamdias Atlas VH22F 75hz
-- ViewPlus MX-22 Premium Series 75hz
-- Rakk Diwa V2 Mechanical Keyboard
-- AULA F805 Gaming Mouse
-- Onikuma K16 Ice Gaming Headset
+## Peripherals
+<h5>
+  
+<img src="https://icon-icons.com/icons2/2970/PNG/96/monitor_screen_computer_desktop_icon_186853.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz
+
+<img src="https://icon-icons.com/icons2/2970/PNG/96/monitor_screen_computer_desktop_icon_186853.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz
+
+<img src="https://icon-icons.com/icons2/2621/PNG/96/device_keyboard_icon_157287.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
+
+<img src="https://icon-icons.com/icons2/1632/PNG/96/62831computermouse_109204.png" alt="vscode" width="15" height="15"/> AULA F805 Gaming Mouse
+
+<img src="https://cdn-icons-png.flaticon.com/128/8499/8499591.png" alt="vscode" width="15" height="15"/> Onikuma K16 Ice Gaming Headset
+
+<img src="https://cdn-icons-png.flaticon.com/128/889/889640.png" alt="vscode" width="15" height="15"/> Ergonomic Chair
 </h5>
