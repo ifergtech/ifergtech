@@ -93,7 +93,7 @@
 
 <hr>
 
-## My Rig
+## Rig
 <h5>
   
 <img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Windows 11 Pro
