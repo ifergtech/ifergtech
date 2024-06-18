@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 
-<img align="right" alt="Coding" width="160" height="160" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/waku-waku.webp">
+<img align="right" alt="Coding" width="140" height="140" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/waku-waku.webp">
 
 <hr>
 <h5 align="left"><img src="https://cdn-icons-png.flaticon.com/128/1325/1325130.png" alt="visualstudio" width="15" height="15"> Connect with me:</h5>
