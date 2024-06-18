@@ -92,6 +92,7 @@
 </table>
 
 <hr>
+<h5><img src="https://icon-icons.com/icons2/2404/PNG/512/computer_desktop_server_system_icon_145865.png" alt="visualstudio" width="20" height="20"> Local Machine & Peripherals</h5>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rig.png.png"> </div>
 
