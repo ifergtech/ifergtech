@@ -136,3 +136,5 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/889/889640.png" alt="vscode" width="15" height="15"/> Ergonomic Chair
 </h5>
+
+<hr>
