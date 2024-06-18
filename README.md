@@ -104,7 +104,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="15" height="15"/> AMD Wraith Stealth Cooler
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2
+<img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2
 
 <img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz
 
