@@ -94,7 +94,7 @@
 <hr>
 <h5>My Rig</h5>
 
-  ```bash
+
 
  - AMD Ryzen 5 Pro 4650G
  - Radeon Vega 3 [Integrated Graphics]
