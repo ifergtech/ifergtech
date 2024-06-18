@@ -106,15 +106,15 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz
+<img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [OS]
+<img src="https://cdn-icons-png.flaticon.com/128/6329/6329567.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [OS]
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5
+<img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5
+<img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans
+<img src="https://cdn-icons-png.flaticon.com/128/689/689291.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans
 
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 80+ Bronze
 
