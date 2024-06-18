@@ -95,8 +95,9 @@
 <h5>My Rig</h5>
 
 ```
+ - Windows 11 Pro
  - AMD Ryzen 5 Pro 4650G
- - Radeon Vega 3 [Integrated Graphics]
+ - Radeon Vega 3 [IGPU]
  - AMD Stock Cooler
  - Gigabyte B450M DS3H V2
  - TForce Delta 2X8 16GB 3200Mhz
