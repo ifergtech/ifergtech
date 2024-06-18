@@ -97,17 +97,28 @@
 <h5>
   
 <img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Windows 11 Pro
+
 <img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G
+
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [IGPU]
-- AMD Stock Cooler
-- Gigabyte B450M DS3H V2
-- TForce Delta 2X8 16GB 3200Mhz
-- 500GB Kingston NV2 NVMe SSD [OS]
-- 512GB Teamgroup GX2 Sata 2.5
-- 128GB Silicon Power A58 SaTA 2.5
-- GStorm 5X Chassis Fans
-- FSP HV PRO 550W 80+ Bronze
-- Rakk Mirad
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> AMD Stock Cooler
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [OS]
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 80+ Bronze
+
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Rakk Mirad
 
 - Gamdias Atlas VH22F 75hz
 - ViewPlus MX-22 Premium Series 75hz
