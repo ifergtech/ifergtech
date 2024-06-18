@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 
-<img align="right" alt="Coding" width="200" height="200" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/IMG_20240618_100935_660.jpg">
+<img align="right" alt="Coding" width="200" height="200" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/IMG_20240618_100952_045.jpg">
 
 <hr>
 
@@ -49,7 +49,7 @@
 <img src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" alt="bootstrap" width="20" height="20"/> </a> 
 
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
-<img src="https://www.mmdtech.com/wp-content/uploads/visual-basic-in-urdu1.png" alt="dotnet" width="25" height="20"/> </a> 
+<img src="https://www.mmdtech.com/wp-content/uploads/visual-basic-in-urdu1.png" alt="dotnet" width="25" height="18"/> </a> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="20" height="20"/> </a> 
