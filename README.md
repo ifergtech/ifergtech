@@ -93,6 +93,6 @@
 
 <hr>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rig.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rig.png.png"> </div>
 
 <hr>
