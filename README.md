@@ -143,11 +143,11 @@
 ## <img src="https://cdn-icons-png.flaticon.com/128/12898/12898950.png" alt="vscode" width="20" height="20"/> Rig
 <h5>
  
-<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> <!-- Procesor: --> 
+<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
 `
   AMD Ryzen 5 Pro 4650G with IGPU
 `  
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/>  <!-- Graphics: -->
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="20" height="20"/>  <!-- Graphics: -->
 `
   Radeon Vega 3 [ IGPU ]
 `  
