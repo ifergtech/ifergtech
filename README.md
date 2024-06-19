@@ -151,15 +151,22 @@
 `
   Radeon Vega 3 [ IGPU ]
 `  
-
-<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="15" height="15"/> AMD Wraith Stealth Cooler <!-- Cooler: -->
-
-<img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2 <!-- MOBO: -->
-
-<img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz <!-- RAM: -->
-
-<img src="https://cdn-icons-png.flaticon.com/128/9111/9111352.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [ OS ] <!-- NVME SSD: -->
-
+<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="20" height="20"/>  <!-- Cooler: -->
+`
+  AMD Wraith Stealth Cooler
+`  
+<img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="20" height="20"/>  <!-- MOBO: -->
+`
+  Gigabyte B450M DS3H V2
+`  
+<img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="20" height="20"/>  <!-- RAM: -->
+`
+  TForce Delta 2X8 16GB 3200Mhz
+`  
+<img src="https://cdn-icons-png.flaticon.com/128/9111/9111352.png" alt="vscode" width="20" height="20"/>  <!-- NVME SSD: -->
+`
+  500GB Kingston NV2 NVMe SSD [ OS ]
+`  
 <img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5 <!-- SSD: -->
 
 <img src="https://cdn-icons-png.flaticon.com/128/6084/6084157.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5 <!-- SSD: -->
