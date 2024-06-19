@@ -145,7 +145,7 @@
  
 <img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> <!-- Procesor: --> 
 `
-  AMD Ryzen 5 Pro 4650G with Radeon Graphics
+  AMD Ryzen 5 Pro 4650G with IGPU
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/>  <!-- Graphics: -->
 `
