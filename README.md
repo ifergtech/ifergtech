@@ -157,11 +157,11 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/11152/11152802.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz
 
-<img src="https://cdn-icons-png.flaticon.com/128/2867/2867522.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
+<img src="https://cdn-icons-png.flaticon.com/128/8852/8852332.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
 
 <img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="15" height="15"/> AULA F805 Gaming Mouse
 
-<img src="https://cdn-icons-png.flaticon.com/128/4162/4162958.png" alt="vscode" width="15" height="15"/> Onikuma K16 Ice Gaming Headset
+<img src="https://cdn-icons-png.flaticon.com/128/8499/8499591.png" alt="vscode" width="15" height="15"/> Onikuma K16 Ice Gaming Headset
 
 <img src="https://cdn-icons-png.flaticon.com/128/5510/5510029.png" alt="vscode" width="15" height="15"/> Ergonomic Chair
 </h6>
