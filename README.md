@@ -188,9 +188,9 @@
 `
    Monitor: ViewPlus MX-22 75hz
 `  
-<img src="https://cdn-icons-png.flaticon.com/128/8852/8852332.png" alt="vscode" width="20" height="20"/>  <!-- Keyboard -->
+<img src="https://cdn-icons-png.flaticon.com/128/346/346063.png" alt="vscode" width="20" height="20"/>  <!-- Keyboard -->
 `
-   KB: Rakk Diwa V2 Mechanical Keyboard
+   KB: Rakk Diwa V2 Mechanical KB
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="20" height="20"/>  <!-- Mouse: -->
 `
