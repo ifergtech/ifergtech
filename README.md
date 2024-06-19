@@ -66,15 +66,16 @@
 <!-- Visual Basic --> 
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
 <img src="https://www.mmdtech.com/wp-content/uploads/visual-basic-in-urdu1.png" alt="dotnet" width="25" height="18"/> </a> 
+  
 <!-- Alight Motion --> 
-<a href="https://www.alightmotionapk.com/alight-motion-for-pc/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.alightmotionapk.com/alight-motion-for-pc/" target="_blank" rel="noreferrer"> 
 <img src="https://www.alightmotionapk.com/wp-content/uploads/2021/09/cropped-cropped-alight-motion-1.png" alt="alightmotion" width="20" height="20"/> </a> 
-<!-- Adobe Lightroom --> 
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/128/5611/5611075.png" alt="photoshop" width="20" height="20"/> </a>
-<!-- Adobe Draw --> 
+<img src="https://cdn-icons-png.flaticon.com/128/5611/5611075.png" alt="photoshop" width="20" height="20"/> </a> 
 <a href="https://adobe-illustrator-draw.fileplanet.com/apk" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968465.png" alt="photoshop" width="20" height="20"/> </a>
+  -->
+  
 <!-- Visual Studio Code --> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="20" height="20"/> </a> 
@@ -88,6 +89,20 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="22" height="22"/> </a> 
 </p> <!-- End -> Languages and Tools -->
+
+<!-- Graphics -->
+<h6 align="left"><img src="https://cdn-icons-png.flaticon.com/128/2779/2779775.png" alt="visualstudio" width="15" height="15"> Graphics:</h6>
+<p>
+  <!-- Alight Motion --> 
+<a href="https://www.alightmotionapk.com/alight-motion-for-pc/" target="_blank" rel="noreferrer"> 
+<img src="https://www.alightmotionapk.com/wp-content/uploads/2021/09/cropped-cropped-alight-motion-1.png" alt="alightmotion" width="20" height="20"/> </a> 
+<!-- Adobe Lightroom --> 
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/128/5611/5611075.png" alt="photoshop" width="20" height="20"/> </a>
+<!-- Adobe Draw --> 
+<a href="https://adobe-illustrator-draw.fileplanet.com/apk" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968465.png" alt="photoshop" width="20" height="20"/> </a>
+</p>
 
 <hr> <!-- <hr> horizontal line -->
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
