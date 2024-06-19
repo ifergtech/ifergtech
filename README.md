@@ -135,7 +135,7 @@
   
 <img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/>&nbsp;<!-- 20 --> 
 `
-   Windows 11 Pro
+ OS: Windows 11 Pro
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
 `
