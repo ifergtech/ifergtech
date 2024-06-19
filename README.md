@@ -137,7 +137,7 @@
 `
  OS: Windows 11 Pro
 `  
-<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
+<img src="https://cdn-icons-png.flaticon.com/128/8900/8900353.png" alt="vscode" width="20" height="20"/> <!-- Procesor: -->  <!-- https://cdn-icons-png.flaticon.com/128/10890/10890189.png -->
 `
   CPU: Ryzen 5 Pro 4650G with iGPU
 `  
@@ -155,7 +155,7 @@
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="20" height="20"/>  <!-- SSD: -->
 `
-  Storage: 512GB & 128GB Sata 2.5
+  Storage: 512GB & 128GB Sata 2.5 SSD
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
 `
