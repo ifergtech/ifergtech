@@ -143,7 +143,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/128/12898/12898950.png" alt="vscode" width="20" height="20"/> Rig
 <h6>
  
-<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G <!-- Procesor: --> 
+<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G with Integrated Graphics<!-- Procesor: --> 
   
 <img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [ IGPU ] <!-- Graphics: -->
 
