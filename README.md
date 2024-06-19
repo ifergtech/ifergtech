@@ -147,10 +147,7 @@
 `
   AMD Ryzen 5 Pro 4650G with IGPU
 `  
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="20" height="20"/>  <!-- Graphics: -->
-`
-  Radeon Vega 3 [ IGPU ]
-`  
+
 <img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="20" height="20"/>  <!-- Cooler: -->
 `
   AMD Wraith Stealth Cooler
