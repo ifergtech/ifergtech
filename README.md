@@ -164,12 +164,17 @@
 <br>
 <img src="https://cdn-icons-png.flaticon.com/128/5105/5105481.png" alt="vscode" width="20" height="20"/>  <!-- Cooler: -->
 `
-   CPU Cooler: AMD Wraith Stealth Cooler
+   CPU Cooler: AMD Wraith Stealth
 `
 <br>
-<img src="https://cdn-icons-png.flaticon.com/128/15457/15457549.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
+<img src="https://cdn-icons-png.flaticon.com/128/15457/15457549.png" alt="vscode" width="20" height="20"/>   <!-- FANS: -->
 `
-   Chassis Fans: GStorm 5X Chassis Fans
+   Chassis Fans: Keytech Storm X3 V2 
+`
+<br>
+<img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="20" height="20"/>   <!-- CASE: -->
+`
+   Chassis: Rakk Mirad M-ATX White 
 `
 
 ## 
@@ -183,7 +188,14 @@
 `
    Monitor: ViewPlus MX-22 75hz
 `  
-
+<img src="https://cdn-icons-png.flaticon.com/128/8852/8852332.png" alt="vscode" width="20" height="20"/>  <!-- Keyboard -->
+`
+   Keyboard: Rakk Diwa V2 Mechanical KB
+`  
+<img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="20" height="20"/>  <!-- Mouse: -->
+`
+   Mouse: AULA F805 Gaming Mouse
+`  
 
 </h5>
 
