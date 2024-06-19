@@ -192,7 +192,7 @@
 `
    KB: Rakk Diwa V2 Mechanical KB
 `  
-<img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="20" height="20"/>  <!-- Mouse: -->
+<img src="https://cdn-icons-png.flaticon.com/128/2422/2422510.png" alt="vscode" width="20" height="20"/>  <!-- Mouse: -->
 `
    Mouse: AULA F805 Gaming Mouse
 `  
