@@ -130,7 +130,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 <!-- Local Machine & Peripherals -->
-## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="25" height="25"> Local Machine
+## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="25" height="25"> ʟᴏᴄᴀʟ ᴍᴀᴄʜɪɴᴇ
 <h5>
   
 &nbsp;<img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/20240619_222457[1].png" alt="vscode" width="15" height="15"/><!-- 20 --> 
