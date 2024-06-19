@@ -157,7 +157,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/11152/11152802.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz
 
-<img src="https://cdn-icons-png.flaticon.com/128/2824/2824587.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
+<img src="https://cdn-icons-png.flaticon.com/128/444/444168.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
 
 <img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="15" height="15"/> AULA F805 Gaming Mouse
 
