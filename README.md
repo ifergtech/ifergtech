@@ -172,7 +172,31 @@
 `
    Monitor: ViewPlus MX-22 75hz
 `  
+<!------------------------------------------------ --------------------------------------------------------------------->
 
+<img src="https://cdn-icons-png.flaticon.com/128/4617/4617755.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans <!-- FANS: -->
+
+<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 85+ Bronzev ATX  <!-- PSU: -->
+
+<img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad M-ATX White  <!-- CHASSIS: -->
+</h6>
+
+## <img src="https://cdn-icons-png.flaticon.com/128/2704/2704234.png" alt="vscode" width="20" height="20"/> Peripherals
+<h6>
+  
+<img src="https://cdn-icons-png.flaticon.com/128/9346/9346075.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz  <!-- Primary Monitor: -->
+
+<img src="https://cdn-icons-png.flaticon.com/128/11152/11152802.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz <!-- Secondary Monitor: -->
+
+<img src="https://cdn-icons-png.flaticon.com/128/8852/8852332.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard  <!-- Keyboard -->
+
+<img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="15" height="15"/> AULA F805 Gaming Mouse  <!-- Mouse: -->
+
+<img src="https://cdn-icons-png.flaticon.com/128/8499/8499591.png" alt="vscode" width="15" height="15"/> Onikuma K16 Ice Gaming Headset  <!-- Headset: -->
+
+<img src="https://cdn-icons-png.flaticon.com/128/5510/5510029.png" alt="vscode" width="15" height="15"/> Ergonomic Chair  <!-- Chair: -->
+
+<!------------------------------------------------ --------------------------------------------------------------------->
 
 </h5>
 
