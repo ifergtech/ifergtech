@@ -143,7 +143,7 @@
 `  
 <img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="20" height="20"/>  <!-- MOBO: -->
 `
-  MOBO: GA-B450M DS3H V2
+  Motherboard: GA-B450M DS3H V2
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="20" height="20"/>  <!-- RAM: -->
 `
