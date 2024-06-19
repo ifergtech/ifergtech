@@ -142,44 +142,44 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/12898/12898950.png" alt="vscode" width="20" height="20"/> Rig
 <h6>
+ 
+<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G <!-- Procesor: --> 
   
-<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [ IGPU ] <!-- Graphics: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [ IGPU ]
+<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="15" height="15"/> AMD Wraith Stealth Cooler <!-- Cooler: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="15" height="15"/> AMD Wraith Stealth Cooler
+<img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2 <!-- MOBO: -->
 
-<img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="15" height="15"/> Gigabyte B450M DS3H V2
+<img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz <!-- RAM: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz
+<img src="https://cdn-icons-png.flaticon.com/128/9111/9111352.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [ OS ] <!-- NVME SSD: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/9111/9111352.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [ OS ]
+<img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5 <!-- SSD: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5
+<img src="https://cdn-icons-png.flaticon.com/128/6084/6084157.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5 <!-- SSD: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/6084/6084157.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5
+<img src="https://cdn-icons-png.flaticon.com/128/4617/4617755.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans <!-- FANS: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/4617/4617755.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans
+<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 85+ Bronzev ATX  <!-- PSU: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 85+ Bronzev ATX
-
-<img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad M-ATX White
+<img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad M-ATX White  <!-- CHASSIS: -->
 </h6>
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/2704/2704234.png" alt="vscode" width="20" height="20"/> Peripherals
 <h6>
   
-<img src="https://cdn-icons-png.flaticon.com/128/9346/9346075.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz
+<img src="https://cdn-icons-png.flaticon.com/128/9346/9346075.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz  <!-- Primary Monitor: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/11152/11152802.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz
+<img src="https://cdn-icons-png.flaticon.com/128/11152/11152802.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz <!-- Secondary Monitor: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/8852/8852332.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
+<img src="https://cdn-icons-png.flaticon.com/128/8852/8852332.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard  <!-- Keyboard -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="15" height="15"/> AULA F805 Gaming Mouse
+<img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="15" height="15"/> AULA F805 Gaming Mouse  <!-- Mouse: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/8499/8499591.png" alt="vscode" width="15" height="15"/> Onikuma K16 Ice Gaming Headset
+<img src="https://cdn-icons-png.flaticon.com/128/8499/8499591.png" alt="vscode" width="15" height="15"/> Onikuma K16 Ice Gaming Headset  <!-- Headset: -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/5510/5510029.png" alt="vscode" width="15" height="15"/> Ergonomic Chair
+<img src="https://cdn-icons-png.flaticon.com/128/5510/5510029.png" alt="vscode" width="15" height="15"/> Ergonomic Chair  <!-- Chair: -->
 </h6>
 
 <hr>
