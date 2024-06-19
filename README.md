@@ -131,18 +131,12 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 <!-- Local Machine & Peripherals -->
 ## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="20" height="20"> Local Machine
-
-<h5>
-<img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Operating System
-</h5>
-
-`
-  Windows 11 Pro
-`
-
-## <img src="https://cdn-icons-png.flaticon.com/128/12898/12898950.png" alt="vscode" width="20" height="20"/> Rig
 <h5>
   
+<img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/>&nbsp;<!-- 20 --> 
+`
+   Windows 11 Pro
+`  
 <img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
 `
   CPU: Ryzen 5 Pro 4650G with IGPU
