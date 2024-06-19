@@ -139,11 +139,11 @@
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
 `
-  CPU: Ryzen 5 Pro 4650G with IGPU
+  CPU: Ryzen 5 Pro 4650G with iGPU
 `  
 <img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="20" height="20"/>  <!-- MOBO: -->
 `
-  MOBO: Gigabyte B450M DS3H V2
+  MOBO: B450M DS3H V2
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="20" height="20"/>  <!-- RAM: -->
 `
