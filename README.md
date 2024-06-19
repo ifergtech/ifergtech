@@ -150,14 +150,14 @@
 <img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad M-ATX White
 </h6>
 
-## <img src="https://cdn-icons-png.flaticon.com/128/10740/10740611.png" alt="vscode" width="20" height="20"/> Peripherals
+## <img src="https://cdn-icons-png.flaticon.com/128/2704/2704234.png" alt="vscode" width="20" height="20"/> Peripherals
 <h6>
   
 <img src="https://cdn-icons-png.flaticon.com/128/9346/9346075.png" alt="vscode" width="15" height="15"/> Gamdias Atlas VH22F 75hz
 
 <img src="https://cdn-icons-png.flaticon.com/128/11152/11152802.png" alt="vscode" width="15" height="15"/> ViewPlus MX-22 Premium Series 75hz
 
-<img src="https://cdn-icons-png.flaticon.com/128/444/444168.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
+<img src="https://cdn-icons-png.flaticon.com/128/2867/2867522.png" alt="vscode" width="15" height="15"/> Rakk Diwa V2 Mechanical Keyboard
 
 <img src="https://cdn-icons-png.flaticon.com/128/3355/3355049.png" alt="vscode" width="15" height="15"/> AULA F805 Gaming Mouse
 
