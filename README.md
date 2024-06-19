@@ -147,33 +147,26 @@
 `
   AMD Ryzen 5 Pro 4650G with IGPU
 `  
-
-<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="20" height="20"/>  <!-- Cooler: -->
-`
-  AMD Wraith Stealth Cooler
-`  
 <img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="20" height="20"/>  <!-- MOBO: -->
 `
   Gigabyte B450M DS3H V2
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="20" height="20"/>  <!-- RAM: -->
 `
-  TForce Delta 2X8 16GB 3200Mhz
+  16GB DDR4 3200Mhz 2x8
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/9111/9111352.png" alt="vscode" width="20" height="20"/>  <!-- NVME SSD: -->
 `
-  500GB Kingston NV2 NVMe SSD [ OS ]
+  500GB NV2 NVMe SSD [ OS ]
 `  
-<img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5 <!-- SSD: -->
-
-<img src="https://cdn-icons-png.flaticon.com/128/6084/6084157.png" alt="vscode" width="15" height="15"/> 128GB Silicon Power A58 SaTA 2.5 <!-- SSD: -->
-
-<img src="https://cdn-icons-png.flaticon.com/128/4617/4617755.png" alt="vscode" width="15" height="15"/> GStorm 5X Chassis Fans <!-- FANS: -->
-
-<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 85+ Bronzev ATX  <!-- PSU: -->
-
-<img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad M-ATX White  <!-- CHASSIS: -->
-</h5>
+<img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="20" height="20"/>  <!-- SSD: -->
+`
+   512GB & 128GB Sata 2.5
+`  
+<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
+`
+   FSP HV PRO 550W 85+ Bronze
+`  
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/2704/2704234.png" alt="vscode" width="20" height="20"/> Peripherals
 <h6>
