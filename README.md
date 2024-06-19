@@ -161,13 +161,15 @@
 `
    PSU: FSP HV PRO 550W 85+ Bronze
 `
-<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
-`
-   Chassis Fans: G-Storm 
-`
-<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="20" height="20"/>  <!-- Cooler: -->
+<br>
+<img src="https://cdn-icons-png.flaticon.com/128/5105/5105481.png" alt="vscode" width="20" height="20"/>  <!-- Cooler: -->
 `
    CPU Cooler: AMD Wraith Stealth Cooler
+`
+<br>
+<img src="https://cdn-icons-png.flaticon.com/128/15457/15457549.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
+`
+   Chassis Fans: GStorm 5X Chassis Fans
 `
 
 ## 
