@@ -170,7 +170,7 @@
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/11152/11152802.png" alt="vscode" width="20" height="20"/>  <!-- Secondary Monitor: -->
 `
-   MONITOR: ViewPlus MX-22 Premium Series 75hz
+   MONITOR: ViewPlus MX-22 75hz
 `  
 
 
