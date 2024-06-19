@@ -141,25 +141,21 @@
 `
   CPU: Ryzen 5 Pro 4650G with iGPU
 `  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
-`
-  6 Cores 12 Threads 3.7 GHz Zen 2
-`  
 <img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="20" height="20"/>  <!-- MOBO: -->
 `
-  MOBO: B450M DS3H V2
+  MOBO: GA-B450M DS3H V2
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="20" height="20"/>  <!-- RAM: -->
 `
-  MEMORY: 16GB DDR4 3200Mhz 2x8
+  Memory: 16GB DDR4 3200Mhz 2x8
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/9111/9111352.png" alt="vscode" width="20" height="20"/>  <!-- NVME SSD: -->
 `
-  STORAGE: 500GB NV2 NVMe SSD [ OS ]
+  Storage: 500GB NV2 NVMe SSD [ OS ]
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="20" height="20"/>  <!-- SSD: -->
 `
-  STORAGE: 512GB & 128GB Sata 2.5
+  Storage: 512GB & 128GB Sata 2.5
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
 `
@@ -170,11 +166,11 @@
   
 <img src="https://cdn-icons-png.flaticon.com/128/9346/9346075.png" alt="vscode" width="20" height="20"/>   <!-- Primary Monitor: -->
 `
-   MONITOR: Gamdias Atlas VH22F 75hz
+   Monitor: Gamdias Atlas VH22F 75hz
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/11152/11152802.png" alt="vscode" width="20" height="20"/>  <!-- Secondary Monitor: -->
 `
-   MONITOR: ViewPlus MX-22 75hz
+   Monitor: ViewPlus MX-22 75hz
 `  
 
 
