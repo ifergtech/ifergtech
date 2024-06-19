@@ -137,13 +137,13 @@
 `
  OS: Windows 11 Pro
 `  
-<img src="https://www.notebookcheck.net/fileadmin/Notebooks/Sonstiges/AMD/Ryzen/RYZEN_3_LEFT.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
+<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
 `
   CPU: Ryzen 5 Pro 4650G with iGPU
 `  
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" alt="vscode" width="20" height="20"/> <!-- Procesor: --> 
 `
-  6 Cores 12 Threads 3.7 GHz
+  6 Cores 12 Threads 3.7 GHz Zen 2
 `  
 <img src="https://icon-icons.com/icons2/476/PNG/256/motherboard_46935.png" alt="vscode" width="20" height="20"/>  <!-- MOBO: -->
 `
