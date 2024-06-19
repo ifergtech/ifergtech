@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h5 align="center">Hi <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/wave-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif" />, I'm iFergTech</h5>
 <!-- Banner -->
-<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-bannerCopy278199F-ezgif.com-video-to-gif-converter[1].gif"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/ifergtech-bannerCopy8020847-ezgif.com-video-to-gif-converter_(1)[1].gif"> </div>
 <!-- Aspiring Full-Stack Developer -->
 <h6 align="center"><img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/rocket-ezgif.com-effects.gif" width="24" height="24" alt="laptop gif"/>Aspiring Full-Stack Developer</h6>
 <!-- Profile views -->
@@ -133,7 +133,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="20" height="20"> Local Machine
 <h5>
   
-<img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/20240619_194055[1].png" alt="vscode" width="15" height="15"/>&nbsp;<!-- 20 --> 
+&nbsp;<img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/20240619_222457[1].png" alt="vscode" width="15" height="15"/><!-- 20 --> 
 `
  Windows 11 Pro
 `  
