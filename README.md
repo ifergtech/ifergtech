@@ -155,8 +155,14 @@
 `  
 <img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="20" height="20"/>  <!-- SSD: -->
 `
-  512GB & 128GB Sata 2.5
-`  
+  512GB Sata 2.5 SSD
+`
+<br>
+<img src="https://cdn-icons-png.flaticon.com/128/6084/6084157.png" alt="vscode" width="20" height="20"/>  <!-- SSD: -->
+`
+  128GB Sata 2.5 SSD
+`
+<br>
 <img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
 `
    FSP HV PRO 550W 85+ Bronze
