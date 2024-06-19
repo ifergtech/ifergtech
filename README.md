@@ -7,8 +7,8 @@
 <!-- Profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifergtech&label=Profile%20views&color=AC90FE&style=flat" alt="ifergtech" /> </p>
 <!-- GIF Anya Waku Waku -->
-<img align="right" alt="Coding" width="140" height="140" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/Pixaloop_19_06_2024_21_47_32_2839999-ezgif.com-video-to-gif-converter[1].gif">
-<!-- waku-waku.webp -->
+<img align="right" alt="Coding" width="140" height="140" src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/waku-waku.webp">
+<!--  Pixaloop_19_06_2024_21_47_32_2839999-ezgif.com-video-to-gif-converter[1].gif-->
 <hr> <!-- <hr> horizontal line -->
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 <!-- Connect with me -->
