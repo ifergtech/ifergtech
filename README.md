@@ -160,7 +160,16 @@
 <img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
 `
    PSU: FSP HV PRO 550W 85+ Bronze
-`  
+`
+<img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="20" height="20"/>   <!-- PSU: -->
+`
+   PSU: FSP HV PRO 550W 85+ Bronze
+`
+<img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="20" height="20"/>  <!-- Cooler: -->
+`
+   CPU Cooler: AMD Wraith Stealth Cooler
+`
+
 ## 
 <h5>
   
