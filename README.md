@@ -137,7 +137,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/128/8651/8651153.png" alt="vscode" width="15" height="15"/> TForce Delta 2X8 16GB 3200Mhz
 
-<img src="https://cdn-icons-png.flaticon.com/128/9111/9111352.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [OS]
+<img src="https://cdn-icons-png.flaticon.com/128/9111/9111352.png" alt="vscode" width="15" height="15"/> 500GB Kingston NV2 NVMe SSD [ OS ]
 
 <img src="https://cdn-icons-png.flaticon.com/128/4854/4854407.png" alt="vscode" width="15" height="15"/> 512GB Teamgroup GX2 Sata 2.5
 
