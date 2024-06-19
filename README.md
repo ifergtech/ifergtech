@@ -34,7 +34,7 @@
 <hr> <!-- <hr> horizontal line -->
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 <!-- Languages and Tools -->
-<h6 align="left"><img src="https://cdn-icons-png.flaticon.com/128/2888/2888407.png" alt="visualstudio" width="15" height="15"> Languages and Tools:</h6>
+<h6 align="left"><img src="https://cdn-icons-png.flaticon.com/128/2888/2888407.png" alt="visualstudio" width="15" height="15"> Tech Stack:</h6>
 <p align="left"> <!-- Start -> Languages and Tools -->
 <!-- Bash -->   
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -115,7 +115,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 <!-- Local Machine & Peripherals -->
-## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="20" height="20"> Local Machine & Peripherals
+## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="20" height="20"> Local Machine
 
 <h5>
 <img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/> Operating System
