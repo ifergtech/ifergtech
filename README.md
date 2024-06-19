@@ -141,11 +141,16 @@
 `
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/12898/12898950.png" alt="vscode" width="20" height="20"/> Rig
-<h6>
+<h5>
  
-<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> AMD Ryzen 5 Pro 4650G with Integrated Graphics<!-- Procesor: --> 
-  
-<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/> Radeon Vega 3 [ IGPU ] <!-- Graphics: -->
+<img src="https://cdn-icons-png.flaticon.com/128/10890/10890189.png" alt="vscode" width="15" height="15"/> <!-- Procesor: --> 
+`
+  AMD Ryzen 5 Pro 4650G with Radeon Graphics
+`  
+<img src="https://cdn-icons-png.flaticon.com/128/10069/10069222.png" alt="vscode" width="15" height="15"/>  <!-- Graphics: -->
+`
+  Radeon Vega 3 [ IGPU ]
+`  
 
 <img src="https://cdn-icons-png.flaticon.com/128/11152/11152964.png" alt="vscode" width="15" height="15"/> AMD Wraith Stealth Cooler <!-- Cooler: -->
 
@@ -164,7 +169,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/7005/7005117.png" alt="vscode" width="15" height="15"/> FSP HV PRO 550W 85+ Bronzev ATX  <!-- PSU: -->
 
 <img src="https://cdn-icons-png.flaticon.com/128/7910/7910255.png" alt="vscode" width="15" height="15"/> Rakk Mirad M-ATX White  <!-- CHASSIS: -->
-</h6>
+</h5>
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/2704/2704234.png" alt="vscode" width="20" height="20"/> Peripherals
 <h6>
