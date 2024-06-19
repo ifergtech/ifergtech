@@ -91,7 +91,7 @@
 </p> <!-- End -> Languages and Tools -->
 
 <!-- Graphics -->
-<h6 align="left"><img src="https://cdn-icons-png.flaticon.com/128/2779/2779775.png" alt="visualstudio" width="15" height="15"> Graphics:</h6>
+<h6 align="left"><img src="https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-browserwindowwithstats-4417108_116626.png" alt="visualstudio" width="15" height="15"> Graphics:</h6>
 <p>
   <!-- Alight Motion --> 
 <a href="https://www.alightmotionapk.com/alight-motion-for-pc/" target="_blank" rel="noreferrer"> 
@@ -107,7 +107,7 @@
 <hr> <!-- <hr> horizontal line -->
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 <!-- Quick Stats about me -->
-<h6><img src="https://cdn-icons-png.flaticon.com/128/2272/2272166.png" alt="visualstudio" width="15" height="15"> Quick stats about me</h6>
+<h6><img src="https://cdn.icon-icons.com/icons2/883/PNG/512/5_icon-icons.com_68890.png" alt="visualstudio" width="15" height="15"> Quick stats about me</h6>
 <table> 
   <tr>
     <td> <!-- iFergTech's Github Stats -->
