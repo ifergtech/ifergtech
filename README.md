@@ -133,7 +133,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/128/6126/6126663.png" alt="visualstudio" width="20" height="20"> Local Machine
 <h5>
   
-<img src="https://cdn-icons-png.flaticon.com/128/732/732225.png" alt="vscode" width="15" height="15"/>&nbsp;<!-- 20 --> 
+<img src="https://raw.githubusercontent.com/ifergtech/ifergtech/main/20240619_194055[1].png" alt="vscode" width="15" height="15"/>&nbsp;<!-- 20 --> 
 `
  Windows 11 Pro
 `  
